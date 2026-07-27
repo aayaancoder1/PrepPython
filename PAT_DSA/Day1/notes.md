@@ -6,7 +6,11 @@ int, str, float, bool, double
 
 Linear Search
 
-Two Pointers:
+Two Pointers (binary search):
 2 pointers
 L and R
 mid = (L + R)/2
+
+
+mistakes:
+int left = arr[0];
