@@ -10,5 +10,6 @@ public class containsDuplicate{
         while(it.hasNext()){
             System.out.println(it.next());
         }
+        System.out.println("No nodes exists")
     }
 }
