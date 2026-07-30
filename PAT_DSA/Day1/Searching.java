@@ -9,7 +9,7 @@ public class Searching{
             cnt++;
         }
         for(int val : arr){
-            System.out.print(val)
+            System.out.print(val);
         }
     }
 }
